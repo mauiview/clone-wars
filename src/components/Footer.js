@@ -13,6 +13,7 @@ class Footer extends React.Component {
                         <li><a href="https://www.linkedin.com/in/bradleywhiterph/" target="_blank" className="icon fa-linkedin"><span className="label">LinkedIn</span></a></li>
                         <li><a href="https://www.facebook.com/bradley.white" target="_blank" className="icon fa-facebook"><span className="label">
                             Facebook</span></a></li>
+                         <li><a href="https://www.youtube.com/user/bradleypwhite/videos" target="_blank" className="icon fa-youtube"><span className="label">Youtube</span></a></li>
                     </ul>
                     <ul className="copyright">
                         <li>&copy; Gatsby Starter Strata</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
