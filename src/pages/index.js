@@ -21,7 +21,7 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>Welcome to My Sharing Space</h2>
+                            <h2>Welcome to My Sharing Space that uses Notion to manage contentco-x3family</h2>
                         </header>
                         <h2>There is more to life than my day job. This is my latest project to ensure other distractions</h2>
                     </section>
