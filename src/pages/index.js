@@ -10,7 +10,7 @@ class HomeIndex extends React.Component {
         const siteTitle = "Bradleywhite.com"
         const siteDescription = "Welcome to my work in progress by Brad White"
 
-        return (
+        return (brew
             <Layout>
                 <Helmet>
                         <title>{siteTitle}</title>
