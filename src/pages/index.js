@@ -8,7 +8,7 @@ class HomeIndex extends React.Component {
 
     render() {
         const siteTitle = "Bradleywhite.com"
-        const siteDescription = "Welcome to random musings by Brad White"
+        const siteDescription = "Welcome to my work in progress by Brad White"
 
         return (
             <Layout>
